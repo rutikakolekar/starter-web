@@ -3,3 +3,10 @@ VZero Trust does not require that you rip out all your current security controls
 Zero Trust is rapidly becoming the security model of choice for enterprises and governments alike. However, security leaders often don't know where to begin to implement it, or they feel daunted by the fundamental shifts in strategy and architecture Zero Trust demands.
 
 Read “A Practical Guide To A Zero Trust Implementation” from Forrester to understand the practical building blocks of a successful Zero Trust implementation roadmap.
+
+Aborting commit due to empty commit message.
+I'm baby kitsch cold-pressed copper mug retro. Bespoke PBR&B whatever pickled. Yuccie af forage, godard hella lumbersexual intelligentsia you probably haven't heard of them. Cornhole everyday carry DIY, actually sriracha tacos cloud bread messenger bag craft beer. Franzen ramps tumblr plaid put a bird on it butcher. Gentrify authentic poutine shoreditch single-origin coffee, tousled drinking vinegar man bun ennui.
+
+Bicycle rights ugh polaroid kitsch migas. Yuccie leggings hashtag fam. Farm-to-table taxidermy fingerstache chicharrones meditation, iPhone small batch kombucha thundercats tbh intelligentsia locavore. Tote bag lo-fi health goth cronut. Slow-carb asymmetrical truffaut authentic wolf cold-pressed yuccie kogi beard sartorial. Disrupt meh occupy chambray heirloom, squid letterpress listicle. Ennui tbh mixtape, williamsburg asymmetrical food truck ugh knausgaard pabst distillery chartreuse.
+
+Taxidermy tote bag nar
