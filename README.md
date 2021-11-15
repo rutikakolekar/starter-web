@@ -2,7 +2,7 @@
 
 <<<<<<< HEAD
 This repository is for showing how Git and GitHub work together.
-Adding a line for rebasing example.
+Adding a line for rebasing example.Git after stash.
 =======
 This repository is for showing how Git and GitHub work together.Adding a line for rebasing example,more changes from my feature branch
 >>>>>>> myfeature
